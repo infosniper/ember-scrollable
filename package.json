@@ -20,7 +20,7 @@
   "dependencies": {
     "ember-cli-babel": "^6.8.0",
     "ember-cli-htmlbars": "^2.0.1",
-    "ember-component-inbound-actions": "1.2.1",
+    "ember-component-inbound-actions": "git://github.com/infosniper/ember-component-inbound-actions#^1.2.2",
     "ember-element-resize-detector": "git://github.com/infosniper/ember-element-resize-detector#^0.1.6",
     "ember-lifeline": "^2.0.0"
   },
